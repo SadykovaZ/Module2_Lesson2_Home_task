@@ -5,6 +5,8 @@
 
 void main()
 {
+	setlocale(LC_ALL, "Rus");
+
 	int n = 0;
 
 	printf("Введите номер задания:\t");
