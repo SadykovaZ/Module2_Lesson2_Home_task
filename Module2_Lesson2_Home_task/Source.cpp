@@ -9,7 +9,7 @@ void main()
 
 	int n = 0;
 
-	printf("Введите номер задания:\t");
+	printf("Please enter number of task:\t");
 	scanf("%d", &n);
 
 	if (n == 1)
